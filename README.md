@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+- 🎯 I am looking for opportunities as a **Data Scientist**, **Data Analyst**, **Data Engineer**, or **Statistician**.
+- 🎓 Currently working towards earning Microsoft's **Data Analyst Associate Certification (Power BI)**.
+- 🧠 I love contributing to various projects and expanding my skills.
+- 💼 At the moment, I'm working as a non-paid freelancer for a traditional local business:
+  - Acting as a **consultant** by creating and managing their database.
+  - Handling **daily data entry** (sales and stock updates).
+  - Performing **data analysis** to uncover insights and provide actionable recommendations to help the business grow.
 ## 🛠️ Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
