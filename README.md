@@ -24,13 +24,17 @@ Here are some ideas to get you started:
   - Handling **daily data entry** (sales and stock updates).
   - Performing **data analysis** to uncover insights and provide actionable recommendations to help the business grow.
 
+
+
 ## 🎯 Current Projects
 - 📊 Freelance consulting for a local business (database management, sales analysis, strategic advising).
 - 📚 Studying for Microsoft’s **Power BI Certification**.
 
+
 ## 🎲 Personal Interests
 - 🏛️ I’m passionate about **history** and love playing **strategy games**.
 - 🤔 I’m still not sure whether my love for history inspired my love for strategy games or if it’s the other way around! 😄
+
 
 ## 🛠️ Technologies & Tools
 <p>
@@ -42,6 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/VBA-0095D5?style=for-the-badge&logo=Microsoft&logoColor=white" alt="VBA Badge"/>
 </p>
+
 
 ## 📈 GitHub Stats
 <p align="center">
