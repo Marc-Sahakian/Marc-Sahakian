@@ -24,3 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/VBA-0095D5?style=for-the-badge&logo=Microsoft&logoColor=white" alt="VBA Badge"/>
 </p>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
