@@ -23,8 +23,6 @@ Here are some ideas to get you started:
   - Acting as a **consultant** by creating and managing their database.
   - Handling **daily data entry** (sales and stock updates).
   - Performing **data analysis** to uncover insights and provide actionable recommendations to help the business grow.
-\n
-
 
 ## 🎯 Current Projects
 - 📊 Freelance consulting for a local business (database management, sales analysis, strategic advising).
@@ -45,6 +43,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/VBA-0095D5?style=for-the-badge&logo=Microsoft&logoColor=white" alt="VBA Badge"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas Badge"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy Badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
 </p>
 
 
