@@ -50,7 +50,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
 </p>
 
+## 📌 Top Repositories
 
+### [🔗 Student Performance](https://github.com/Marc-Sahakian/MLproject)
+Built a complete machine learning pipeline to predict student performance:
+- Data cleaning, feature engineering, model training and evaluation (scikit-learn, pandas)
+- Deployment-ready with proper code structuring
+- Focus on end-to-end project flow from raw data to model deployment
+
+---
+
+### [🔗 Active Learning](https://github.com/Marc-Sahakian/Active-Learning)
+Explored active learning strategies to optimize model training:
+- Implemented active learning loops on CNNs for image classification
+- Compared the effect of different pool sizes with traditional ML models
+- Demonstrated the potential to reduce training data needs while maintaining high accuracy
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marc-Sahakian&show_icons=true&theme=radical" alt="GitHub Stats"/>
