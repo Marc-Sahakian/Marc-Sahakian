@@ -23,6 +23,15 @@ Here are some ideas to get you started:
   - Acting as a **consultant** by creating and managing their database.
   - Handling **daily data entry** (sales and stock updates).
   - Performing **data analysis** to uncover insights and provide actionable recommendations to help the business grow.
+
+## 🎯 Current Projects
+- 📊 Freelance consulting for a local business (database management, sales analysis, strategic advising).
+- 📚 Studying for Microsoft’s **Power BI Certification**.
+
+## 🎲 Personal Interests
+- 🏛️ I’m passionate about **history** and love playing **strategy games**.
+- 🤔 I’m still not sure whether my love for history inspired my love for strategy games or if it’s the other way around! 😄
+
 ## 🛠️ Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
