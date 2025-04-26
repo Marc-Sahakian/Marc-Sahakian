@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - Acting as a **consultant** by creating and managing their database.
   - Handling **daily data entry** (sales and stock updates).
   - Performing **data analysis** to uncover insights and provide actionable recommendations to help the business grow.
-
+\n
 
 
 ## 🎯 Current Projects
