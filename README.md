@@ -67,7 +67,7 @@ Explored active learning strategies to optimize model training:
 - Demonstrated the potential to reduce training data needs while maintaining high accuracy
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marc-Sahakian&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marc-Sahakian&show_icons=true&theme=radical&cache_seconds=1800&hide=issues" />
 </p>
 
 ## 📫 How to Reach Me
