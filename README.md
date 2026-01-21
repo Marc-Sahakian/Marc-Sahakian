@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎯 I am looking for opportunities as a **Data Scientist**, **Data Analyst**, **Data Engineer**, or **Statistician**.
 - 🎓 Currently working towards earning Microsoft's **Data Analyst Associate Certification (Power BI)**.
 - 🧠 I love contributing to various projects and expanding my skills.
-- 💼 At the moment, I'm working as a non-paid freelancer for a traditional local business:
+- 💼 I recently finished my freelancing mission for a traditional local business:
   - Acting as a **consultant** by creating and managing their database.
   - Handling **daily data entry** (sales and stock updates).
   - Performing **data analysis** to uncover insights and provide actionable recommendations to help the business grow.
