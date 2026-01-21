@@ -65,9 +65,7 @@ Explored active learning strategies to optimize model training:
 - Implemented active learning loops on CNNs for image classification
 - Compared the effect of different pool sizes with traditional ML models
 - Demonstrated the potential to reduce training data needs while maintaining high accuracy
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marc-Sahakian&theme=radical" />
+
 </p>
 
 ## 📫 How to Reach Me
