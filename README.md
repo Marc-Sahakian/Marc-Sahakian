@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 📌 Top Repositories
 
-### [🔗 Football-Analytics](https://github.com/Marc-Sahakian/Football-Analytics))
+### [🔗 Football-Analytics](https://github.com/Marc-Sahakian/Football-Analytics)
 Built a Football analytics agent that the user can chat with in order to get information from different leagues and competitions:
 - Implemented the Dixon-Coles Poisson model as a predicting tool for the agent to use
 - This agent can calculate the probability of every outcome in a matchup (Win/Draw/Loss)
