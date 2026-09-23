@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
 ## 📌 Top Repositories
 
-### [🔗 Student Performance](https://github.com/Marc-Sahakian/MLproject)
-Built a complete machine learning pipeline to predict student performance:
-- Data cleaning, feature engineering, model training and evaluation (scikit-learn, pandas)
-- Deployment-ready with proper code structuring
-- Focus on end-to-end project flow from raw data to model deployment
+### [🔗 Football-Analytics](https://github.com/Marc-Sahakian/Football-Analytics))
+Built a Football analytics agent that the user can chat with in order to get information from different leagues and competitions:
+- Implemented the Dixon-Coles Poisson model as a predicting tool for the agent to use
+- This agent can calculate the probability of every outcome in a matchup (Win/Draw/Loss)
+- It can give details about the availability of players within a squad, as well as the stats of each player
 
 ---
 
